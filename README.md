@@ -6,7 +6,7 @@
 - [wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 - [WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper)
 - [Baileys](https://github.com/adiwajshing/Baileys)
-
+- [multidevice](https://github.com/pokearaujo/multidevice)
 
 
 
